@@ -4,7 +4,7 @@ Code from the book [Playing With Chaos](http://www.playingwithchaos.net/), "Prog
 
 ## Browsing examples
 
-You can browse a example by url. E.g. [https://psychobolt.github.io/playing-with-chaos/sierpinski.html](https://psychobolt.github.io/playing-with-chaos/sierpinkski.html)
+You can browse a example by url. E.g. [https://psychobolt.github.io/playing-with-chaos/sierpinski.html](https://psychobolt.github.io/playing-with-chaos/sierpinski.html)
 
 ### Keyboard shortcuts
 
